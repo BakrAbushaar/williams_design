@@ -20,7 +20,7 @@ QUICK START:
 Need help? Check the STUDENT-GUIDE-SIMPLIFIED.md file!
 -->
 
-## Chosen Archetype: [INSERT ARCHETYPE NAME HERE]
+## Chosen Archetype: The Sage
 
 ### Definition and Core Traits
 <!-- 
@@ -36,6 +36,17 @@ Example: "The Explorer archetype represents freedom, discovery, and authenticity
 - [Trait 3]
 
 **Target Audience:** [Who is attracted to this archetype?]
+
+**Core Motivation:**
+The Sage seeks truth, knowledge, and clarity. The Sage archetype aims to educate, simplify complexity, and deliver expert guidance grounded in evidence.
+
+**Key Personality Traits:**
+- Wise and knowledgeable
+- Analytical and evidence-driven
+- Calm, authoritative, and reassuring
+
+**Target Audience:**
+Decision-makers in enterprise technology (CIOs, CISO, Heads of ML/AI, security architects) who prioritize risk-managed innovation and clear, actionable guidance.
 
 ---
 
@@ -55,6 +66,14 @@ You can use color names or hex codes.
 - [Color 3]
 - [Color 4]
 
+**Primary Colors:**
+- #0f1724 (Deep navy) — communicates seriousness, stability, and depth of knowledge.
+- #8fb3ff (Sage blue) — trust, clarity, and a calm authority.
+
+**Secondary/Accent Colors:**
+- #012143 (Deep indigo) — accent for CTAs and distinctions.
+- #9aa7bf (Muted steel) — supportive neutral for UI and body text accents.
+
 ### Typography Style
 <!-- 
 What kind of fonts match your archetype's personality?
@@ -68,6 +87,14 @@ Examples: Modern sans-serif, classic serif, handwritten, bold display fonts
 **Font Examples:**
 - [Specific font name 1]
 - [Specific font name 2]
+
+**Recommended Font Types:**
+- Primary: Modern humanist sans-serif — clear, legible, professional (example: Inter, Source Sans Pro).
+- Secondary: Neutral serif for long-form content (example: Merriweather) to communicate authority in reports.
+
+**Font Examples:**
+- Inter (primary UI)
+- Merriweather (long-form headings or downloadable reports)
 
 ### Imagery and Visual Style
 <!-- 
@@ -83,6 +110,17 @@ Think about composition, mood, subjects, and overall feel.
 **Visual Mood:** [Describe the overall feeling/atmosphere]
 
 **Symbols/Icons:** [Any recurring symbols or visual elements]
+
+**Typical Imagery:**
+- Executive portraiture with neutral backgrounds — confidence without flash.
+- Data visualizations, diagrams, and simplified architecture illustrations — communicates rigor.
+- Abstract imagery of networks, secure nodes, and layered shields — conveys protection and systems thinking.
+
+**Visual Mood:**
+Measured, composed, and analytical. The art direction should prioritize clarity over drama.
+
+**Symbols/Icons:**
+- Shield motifs, open book or quill (knowledge), layered nodes/networks, simple line-diagrams.
 
 ---
 
@@ -117,6 +155,28 @@ Think about headlines, product descriptions, calls-to-action.
 - "[Example headline 1]"
 - "[Example headline 2]"
 
+### Tone of Voice
+
+**Overall Tone:**
+Authoritative but approachable — confident, precise, and focused on clarity. Avoid jargon where possible and prioritize actionable recommendations.
+
+**Key Messaging Themes:**
+- Evidence and rigor
+- Risk-managed innovation
+- Clear roadmaps and practical next steps
+
+### Sample Vocabulary
+
+**Power Words:**
+- Evidence
+- Proven
+- Clarify
+- Secure
+
+**Sample Headlines:**
+- "Clear, evidence-based guidance to secure and scale AI at enterprise speed"
+- "Protect your systems. Accelerate responsibly. Get a free 30-minute advisory call."
+
 ---
 
 ## Real Brand Examples
@@ -124,6 +184,29 @@ Think about headlines, product descriptions, calls-to-action.
 ### Example 1: [Brand Name]
 **Website:** [URL if available]
 
+### Real Brand Examples
+
+### Example 1: IBM
+**Website:** https://www.ibm.com
+
+**How they use this archetype:**
+- Thought leadership content and whitepapers positioned as expert guidance for enterprise decision-makers.
+- Product pages and solutions framing that emphasize research, benchmarks, and case studies.
+- Partnership and certification signals that increase perceived authority.
+
+### Example 2: CrowdStrike
+**Website:** https://www.crowdstrike.com
+
+**How they use this archetype:**
+- Technical reports, threat research, and detailed telemetry used to educate customers.
+- Executive-level messaging that reassures enterprise buyers about risk reduction.
+
+### Example 3: Microsoft (Azure)
+**Website:** https://azure.microsoft.com
+
+**How they use this archetype:**
+- Documentation, compliance guides, and detailed architecture references that make complex systems understandable.
+- Certifications and partner ecosystem that communicate institutional authority.
 **How they use this archetype:**
 - [Specific example 1]
 - [Specific example 2]
@@ -156,6 +239,12 @@ Connect it to your target audience and business goals.
 
 [Your reasoning here - 2-3 paragraphs]
 
+### Why This Archetype Fits
+
+SageShield AI operates at the intersection of enterprise AI adoption and cybersecurity. Buyers in this category are risk-averse, require evidence, and need clear, defensible recommendations. The Sage archetype matches these expectations: it prioritizes trust, clarity, and expertise — all critical when advising large organizations about security and AI governance.
+
+Implementation should lean heavily on documentation, case studies, and clear checklists that support procurement and compliance conversations.
+
 ### Implementation Ideas
 <!-- 
 How could a business in your category use this archetype?
@@ -173,6 +262,10 @@ Think about website design, marketing messages, product presentation.
 
 **Product/Service Presentation:**
 - [How to present offerings using this archetype]
+
+**Product/Service Presentation:**
+- Offer downloadable executive briefs and technical one-pagers for both executives and engineers.
+- Present service offerings as modular sprints (Assessment, Advisory, Implementation) with clear deliverables and timelines.
 
 ---
 
