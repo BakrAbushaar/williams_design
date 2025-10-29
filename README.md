@@ -201,6 +201,43 @@ Include the following in your main `README.md`:
 
 ---
 
+## Deployment & site customization (SageShield AI marketing site)
+
+This repository now includes a single-page marketing site under `docs/` intended to be published with GitHub Pages. The site is a small, accessible marketing landing page for "SageShield AI" — a fictional enterprise AI & cybersecurity advisory designed with a Sage archetype voice.
+
+How it is deployed
+- A GitHub Actions workflow at `.github/workflows/deploy.yml` runs on push to `main` and deploys the contents of `docs/` to the `gh-pages` branch using `peaceiris/actions-gh-pages`.
+- After the action runs you can serve the site by configuring GitHub Pages in the repository Settings → Pages to use the `gh-pages` branch. The site URL will be:
+
+  `https://BakrAbushaar.github.io/williams_design/`
+
+Customize the Calendly link and social links
+- The site uses a placeholder Calendly link: `https://calendly.com/sageshield/30min`. Replace it in `docs/index.html` with your real Calendly scheduling link.
+- The social links point to `https://www.youtube.com/@SageShieldAI` and `https://instagram.com/SageShieldAI` — update those anchors in `docs/index.html` to your real channels.
+
+Accessibility and notes
+- The page includes WCAG-friendly features: a skip link, keyboard support for the slider (Left/Right arrows), focus-visible outlines, and reduced-motion respect.
+- Styling is in `docs/css/styles.css` and JavaScript is in `docs/js/main.js`.
+
+Local testing
+- Preview locally by opening `docs/index.html` or run a local static server (recommended). From the repo root:
+
+```bash
+python -m http.server --directory docs 8000
+```
+
+CI validation
+- A workflow `.github/workflows/html-validate.yml` runs `html-validate` and produces a JSON report artifact; this helps catch markup issues before deployment.
+
+Next steps
+- I can update the site further if you want:
+  - Replace the placeholder SVG logo at `docs/images/logo.svg` with your brand logo (upload file or point me to it).
+  - Generate a PNG OG image and swap `docs/images/og-image.svg` with a PNG for broader compatibility.
+  - Add a small Lighthouse CI job to the Actions pipeline.
+
+
+---
+
 ## Tips for success
 
 - Communicate regularly with your team using GitHub Discussions or chat

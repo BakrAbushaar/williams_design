@@ -1,0 +1,35 @@
+name: HTML Validate
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  html-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install html-validate
+        run: |
+          npm install -g html-validate
+
+      - name: Run html-validate and write JSON report
+        run: |
+          html-validate --format json -o ./html-validate-report.json docs/index.html
+
+      - name: Upload html-validate report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: html-validate-report
+          path: |
+            ./html-validate-report.json
