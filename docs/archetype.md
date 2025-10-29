@@ -1,4 +1,4 @@
-# Brand Archetype Research
+# Brand Archetype Research — The Sage
 
 Quick navigation:
 - Home: [README](../README.md)
@@ -6,279 +6,206 @@ Quick navigation:
 - Other templates: [Persuasion](persuasion.md) • [Sales funnel](sales-funnel.md)
 - Competitor template: [competitors/competitor-template.md](competitors/competitor-template.md)
 
-<!-- 
-👤 YOUR ROLE: Archetype Researcher
-📁 FILE: /docs/archetype.md
+<!--
+Role: Archetype researcher and brand custodian
+File: /docs/archetype.md
 
-QUICK START:
-1. Read about the 12 brand archetypes (see main README or search "Jung brand archetypes")
-2. Choose ONE archetype that fits your team's business category
-3. Research that archetype's characteristics
-4. Find 3 real brand examples
-5. Explain how YOUR business should use this archetype
-
-Need help? Check the STUDENT-GUIDE-SIMPLIFIED.md file!
+Purpose: A single-source guide to the Sage archetype for copywriters, designers, marketers, and engineers working on the SageShield site.
 -->
 
 ## Chosen Archetype: The Sage
 
-### Definition and Core Traits
-<!-- 
-Explain what this archetype represents and its key personality characteristics.
-Example: "The Explorer archetype represents freedom, discovery, and authenticity..."
--->
+This document captures the Sage archetype as it applies to SageShield AI. It answers: who the Sage is, why it fits our category, what visual and verbal cues to use, and how to apply the archetype across product pages, marketing, and content.
 
-**Core Motivation:** [What drives this archetype?]
+### 1. Definition and Core Traits
 
-**Key Personality Traits:**
-- [Trait 1]
-- [Trait 2] 
-- [Trait 3]
+The Sage is the seeker of truth and meaning. It values knowledge, critical thinking, clarity, and evidence. Where other archetypes sell excitement or belonging, the Sage sells understanding and confident judgement.
 
-**Target Audience:** [Who is attracted to this archetype?]
+Core motivation: to help others make better decisions by clarifying complexity and sharing tested knowledge.
 
-**Core Motivation:**
-The Sage seeks truth, knowledge, and clarity. The Sage archetype aims to educate, simplify complexity, and deliver expert guidance grounded in evidence.
+Key personality traits:
+- Wise and measured — speaks with authority, not bravado.
+- Evidence-driven and analytical — demonstrates claims with data and process.
+- Calm, patient, and credible — prioritizes clarity and defensible recommendations.
 
-**Key Personality Traits:**
-- Wise and knowledgeable
-- Analytical and evidence-driven
-- Calm, authoritative, and reassuring
+Primary audience:
+Decision-makers and influencers in enterprise technology: CIOs, CISOs, heads of ML/AI, platform owners, risk and compliance leaders, and engineering leads who need defensible guidance to move forward.
 
-**Target Audience:**
-Decision-makers in enterprise technology (CIOs, CISO, Heads of ML/AI, security architects) who prioritize risk-managed innovation and clear, actionable guidance.
+Success criteria when using this archetype:
+- Audience trusts the brand to reduce uncertainty.
+- Content helps stakeholders make procurement or architecture decisions.
+- Calls-to-action emphasize consults, briefs, and gated resources (whitepapers, technical guides).
 
 ---
 
-## Visual Identity Guidelines
+### 2. Visual Identity Guidelines
 
-### Color Palette
-<!-- 
-Research typical colors for your archetype. Include both primary and secondary colors.
-You can use color names or hex codes.
--->
+Goal: look institutional and scholarly without feeling cold — combine modern clarity with classic authority.
 
-**Primary Colors:**
-- [Color 1] - [Why this color fits the archetype]
-- [Color 2] - [Why this color fits the archetype]
+Color palette (recommended):
+- Primary: #1a2238 — deep scholarly blue (backgrounds, hero)
+- Accent: #c9a227 — wisdom gold (highlights, CTA accents)
+- Card / surface: #141c2f — near-black blue (cards, panels)
+- Support: #8b95a5 — slate grey (muted text, captions)
 
-**Secondary/Accent Colors:**
-- [Color 3]
-- [Color 4]
+Use of color:
+- Reserve the gold (#c9a227) for emphasis — CTAs, separators, and subtle borders. Keep the primary blue dominant for large surfaces and backgrounds.
 
-**Primary Colors:**
-- #0f1724 (Deep navy) — communicates seriousness, stability, and depth of knowledge.
-- #8fb3ff (Sage blue) — trust, clarity, and a calm authority.
+Typography:
+- Headings: classic serif for authority (example: Crimson Pro, Merriweather, or Georgia fallback).
+- UI & body: neutral, highly legible sans-serif (Inter, Roboto, or system UI).
+- Use a serif for large headings and pull quotes; use sans-serif for navigation, UI labels, and long-form reading.
 
-**Secondary/Accent Colors:**
-- #012143 (Deep indigo) — accent for CTAs and distinctions.
-- #9aa7bf (Muted steel) — supportive neutral for UI and body text accents.
+Imagery and iconography:
+- Photography: executive portraits, candid consulting shots, and staged scenes that show collaboration and evidence review. Prefer neutral or desaturated backgrounds.
+- Data & diagrams: simple, annotated diagrams, topology maps, and sanitized telemetry charts that communicate method and reproducibility.
+- Icons: minimal line icons; occasional classical symbols (open book, compass, shield) used sparingly.
 
-### Typography Style
-<!-- 
-What kind of fonts match your archetype's personality?
-Examples: Modern sans-serif, classic serif, handwritten, bold display fonts
--->
-
-**Recommended Font Types:**
-- Primary: [Font style/example] - [Why it fits]
-- Secondary: [Font style/example] - [Why it fits]
-
-**Font Examples:**
-- [Specific font name 1]
-- [Specific font name 2]
-
-**Recommended Font Types:**
-- Primary: Modern humanist sans-serif — clear, legible, professional (example: Inter, Source Sans Pro).
-- Secondary: Neutral serif for long-form content (example: Merriweather) to communicate authority in reports.
-
-**Font Examples:**
-- Inter (primary UI)
-- Merriweather (long-form headings or downloadable reports)
-
-### Imagery and Visual Style
-<!-- 
-What kinds of photos, illustrations, or graphics work well?
-Think about composition, mood, subjects, and overall feel.
--->
-
-**Typical Imagery:**
-- [Image type 1] - [Description]
-- [Image type 2] - [Description]
-- [Image type 3] - [Description]
-
-**Visual Mood:** [Describe the overall feeling/atmosphere]
-
-**Symbols/Icons:** [Any recurring symbols or visual elements]
-
-**Typical Imagery:**
-- Executive portraiture with neutral backgrounds — confidence without flash.
-- Data visualizations, diagrams, and simplified architecture illustrations — communicates rigor.
-- Abstract imagery of networks, secure nodes, and layered shields — conveys protection and systems thinking.
-
-**Visual Mood:**
-Measured, composed, and analytical. The art direction should prioritize clarity over drama.
-
-**Symbols/Icons:**
-- Shield motifs, open book or quill (knowledge), layered nodes/networks, simple line-diagrams.
+Texture & ornament: subtle paper/linen textures or faint vertical/radial gradients to add warmth and depth. Avoid heavy ornamentation — simplicity signals clarity.
 
 ---
 
-## Brand Voice and Messaging
+### 3. Voice, Messaging & Microcopy
 
-### Tone of Voice
-<!-- 
-How does this archetype "speak" to customers?
-Examples: Friendly and approachable, sophisticated and premium, bold and adventurous
--->
+Overall voice: authoritative, clear, and helpful. The Sage teaches rather than shouts. Use plain English and remove unnecessary marketing hyperbole.
 
-**Overall Tone:** [Describe the communication style]
+Tone dimensions:
+- Credible: cite evidence, include brief methodology notes, link to sources.
+- Practical: include next steps, checklists, and decision criteria.
+- Humane: be precise but not cold — use language that respects the audience's intelligence.
 
-**Key Messaging Themes:**
-- [Theme 1]
-- [Theme 2]
-- [Theme 3]
+Key messaging themes:
+- Evidence & rigor: "What we measured and why it matters."
+- Risk-managed innovation: "Move faster with guarded controls."
+- Actionable roadmaps: "Clear phases and deliverables, not promises."
 
-### Sample Vocabulary
-<!-- 
-What specific words or phrases would this archetype use in marketing?
-Think about headlines, product descriptions, calls-to-action.
--->
+Power words and phrases:
+- Evidence, validated, measurable, reproducible, recommended, checklist, framework, governance, roadmap, defensible
 
-**Power Words:**
-- [Word 1]
-- [Word 2]
-- [Word 3]
-- [Word 4]
+Sample hero headlines (short):
+- "Clear, evidence-based guidance for secure AI at enterprise scale"
+- "Reduce uncertainty. Make defensible AI decisions. Book a 30‑minute consult."
 
-**Sample Headlines:**
-- "[Example headline 1]"
-- "[Example headline 2]"
+Sample body / supporting copy:
+"We help organizations make practical, defensible decisions about AI and security. Our advisors pair technical depth with governance frameworks so you can move with confidence."
 
-### Tone of Voice
+Microcopy & CTAs:
+- Primary CTA: "Book a free 30‑minute advisory"
+- Secondary CTA: "Download the executive brief"
+- When gating content, use clear expectations: "Download — 8‑page brief, 5 minute read" or "Includes methodology and references".
 
-**Overall Tone:**
-Authoritative but approachable — confident, precise, and focused on clarity. Avoid jargon where possible and prioritize actionable recommendations.
-
-**Key Messaging Themes:**
-- Evidence and rigor
-- Risk-managed innovation
-- Clear roadmaps and practical next steps
-
-### Sample Vocabulary
-
-**Power Words:**
-- Evidence
-- Proven
-- Clarify
-- Secure
-
-**Sample Headlines:**
-- "Clear, evidence-based guidance to secure and scale AI at enterprise speed"
-- "Protect your systems. Accelerate responsibly. Get a free 30-minute advisory call."
+Accessibility notes:
+- Keep contrast high for body copy.
+- Offer text-only summaries for longer research pieces.
+- Ensure charts and diagrams include captions and alt descriptions.
 
 ---
 
-## Real Brand Examples
+### 4. Content Blocks & Page Patterns (practical templates)
 
-### Example 1: [Brand Name]
-**Website:** [URL if available]
+Use the following reusable content patterns on the site to embody the Sage:
 
-### Real Brand Examples
+- Hero (Compact): Heading (serif) + supporting paragraph (sans) + two CTAs (book consult / download brief). Keep hero heading concise and evidence-forward.
 
-### Example 1: IBM
-**Website:** https://www.ibm.com
+- Method snapshot: Small card with 3 bullets: Objective → Method → Outcome. Good for services and case studies.
 
-**How they use this archetype:**
-- Thought leadership content and whitepapers positioned as expert guidance for enterprise decision-makers.
-- Product pages and solutions framing that emphasize research, benchmarks, and case studies.
-- Partnership and certification signals that increase perceived authority.
+- Evidence panel: Lead quote + short chart or metric + link to the full report. Use this to distill research into decision-grade points.
 
-### Example 2: CrowdStrike
-**Website:** https://www.crowdstrike.com
+- Checklist: Deliverables and gating criteria presented as a 6‑point checklist for procurement and technical review.
 
-**How they use this archetype:**
-- Technical reports, threat research, and detailed telemetry used to educate customers.
-- Executive-level messaging that reassures enterprise buyers about risk reduction.
+- Report CTA: Gated 8–12 page executive brief (PDF) with an optional technical appendix for engineers.
 
-### Example 3: Microsoft (Azure)
-**Website:** https://azure.microsoft.com
-
-**How they use this archetype:**
-- Documentation, compliance guides, and detailed architecture references that make complex systems understandable.
-- Certifications and partner ecosystem that communicate institutional authority.
-**How they use this archetype:**
-- [Specific example 1]
-- [Specific example 2]
-- [Specific example 3]
-
-### Example 2: [Brand Name]
-**Website:** [URL if available]
-
-**How they use this archetype:**
-- [Specific example 1]
-- [Specific example 2]
-- [Specific example 3]
-
-### Example 3: [Brand Name] (Optional)
-**Website:** [URL if available]
-
-**How they use this archetype:**
-- [Specific example 1]
-- [Specific example 2]
+Example layout (Services page):
+- Section: What we do — 3 card columns: Advisory / Assessment / Implementation Support
+- Section: How we decide — Method snapshots and short diagrams
+- Section: Proof — one pager with outcomes (metrics, testimonials, anonymized case notes)
 
 ---
 
-## Application to Our Business Category
+### 5. Real Brand Examples (how they demonstrate Sage characteristics)
 
-### Why This Archetype Fits
-<!-- 
-Explain why you chose this archetype for your team's business category.
-Connect it to your target audience and business goals.
--->
+1. IBM — https://www.ibm.com
+- Uses in-depth research reports, whitepapers, and enterprise guides to build credibility with procurement and IT leaders.
 
-[Your reasoning here - 2-3 paragraphs]
+2. CrowdStrike — https://www.crowdstrike.com
+- Publishes threat research and telemetry that educates customers and shapes risk expectations.
 
-### Why This Archetype Fits
+3. Microsoft (Azure) — https://azure.microsoft.com
+- Comprehensive documentation, compliance resources, and clear architecture diagrams that support technical decision-making.
 
-SageShield AI operates at the intersection of enterprise AI adoption and cybersecurity. Buyers in this category are risk-averse, require evidence, and need clear, defensible recommendations. The Sage archetype matches these expectations: it prioritizes trust, clarity, and expertise — all critical when advising large organizations about security and AI governance.
-
-Implementation should lean heavily on documentation, case studies, and clear checklists that support procurement and compliance conversations.
-
-### Implementation Ideas
-<!-- 
-How could a business in your category use this archetype?
-Think about website design, marketing messages, product presentation.
--->
-
-**Website Design Ideas:**
-- [Idea 1]
-- [Idea 2]
-- [Idea 3]
-
-**Marketing Message Ideas:**
-- [Message 1]
-- [Message 2]
-
-**Product/Service Presentation:**
-- [How to present offerings using this archetype]
-
-**Product/Service Presentation:**
-- Offer downloadable executive briefs and technical one-pagers for both executives and engineers.
-- Present service offerings as modular sprints (Assessment, Advisory, Implementation) with clear deliverables and timelines.
+Lessons we can apply:
+- Publish short, actionable research regularly (monthly or quarterly).
+- Provide both executive summaries and detailed technical appendices.
+- Create an accessible taxonomy of services and deliverables that maps to procurement and engineering needs.
 
 ---
 
-## Research Sources
-<!-- 
-List your sources - websites, articles, books, etc.
-This shows your research process and helps teammates verify information.
--->
+### 6. Why the Sage Fits SageShield AI
 
-1. [Source 1 - Title and URL]
-2. [Source 2 - Title and URL]
-3. [Source 3 - Title and URL]
+Context: SageShield AI advises enterprises on AI adoption and cybersecurity — fields where decisions must be defensible, repeatable, and auditable.
+
+Why the Sage:
+- Buyers need proven methods and clear risk trade-offs. A Sage persona signals the brand will provide reproducible, evidence-based advice rather than marketing hype.
+- The sales cycle is consultative and trust-driven; Sage positioning reduces friction by focusing on methodology, references, and outcomes.
+
+Business impact when done correctly:
+- Shorter procurement cycles (clear deliverables and checklists)
+- Higher conversion on consult CTAs from risk-averse buyers
+- Stronger enterprise partnerships because of repeatable, documented processes
 
 ---
 
-*💡 Remember: Your archetype research should connect with your teammates' work on persuasion techniques and sales funnels. Think about how this personality would influence the entire customer experience!*
+### 7. Implementation Checklist (quick wins)
+
+On the site and marketing collateral, prioritize these practical items first:
+- Add an "Executive Brief" CTA in the hero that opens a gated PDF.
+- Publish at least one short research post with a clear method and references.
+- Add a "Method" or "How we work" page that outlines phases, deliverables, and timelines.
+- Create a downloadable checklist for procurement and engineering reviewers.
+- Standardize page headings with the serif font and body in sans for consistency.
+
+---
+
+### 8. UI / Component Guidance (developer-facing)
+
+- Buttons: Primary gold (#c9a227) with dark text, secondary subtle border with gold highlight on hover.
+- Cards: dark card surface (#141c2f) with subtle gold border or accent line.
+- Headings: serif font; use gradient or gold accents for key words sparingly.
+- Charts: muted palette with gold for the most important metric; include captions and short methodology notes.
+- Accessibility: alt text for diagrams, high contrast for body, keyboard focus states clearly visible.
+
+---
+
+### 9. Sample Content Snippets (ready to paste)
+
+- Hero headline: "Clear, evidence-based guidance for secure AI at enterprise scale"
+- Hero subhead: "We combine technical depth with governance frameworks so you can make defensible AI decisions. Book a free 30‑minute advisory."
+- Method snapshot (3-line card): "Objective: Reduce model deployment risk. Method: Threat-informed model review + governance checklist. Outcome: Prioritized remediations and a 90‑day roadmap."
+- CTA microcopy: "Download executive brief — 6‑minute read"; "Book a free consult — 30 minutes"
+
+---
+
+### 10. Measurement and Content KPIs
+
+Track these to validate the archetype's performance:
+- Downloads of executive briefs (conversion rate)
+- Consult bookings originating from research pages
+- Time on page and scroll depth for long-form reports
+- Number of technical follow-ups (RFPs, PoC requests)
+
+---
+
+### 11. Research & References
+
+1. "Jungian Archetypes in Branding" — overview articles and practitioner notes (various digital marketing sources)
+2. IBM Research & Whitepapers — patterns for enterprise-facing research assets
+3. CrowdStrike research reports — example telemetry-driven thought leadership
+
+---
+
+If you want, I can also:
+- Create a pair of hero copy A/B variations (short vs. method-first) and sample CTAs.
+- Produce a lightweight HTML/CSS hero + method snapshot component that matches the site (uses the colors and fonts above).
+- Prepare a short downloadable executive brief template (Markdown → PDF flow).
+
+— End of archetype guide —
